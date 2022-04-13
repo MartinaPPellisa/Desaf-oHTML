@@ -1,0 +1,16 @@
+.navegador{text-align: right; 
+           background-color: rgb(175, 173, 173); 
+           width: 100%; height: 30px;
+           margin: auto; margin-top: 10px;
+           padding: auto;
+           padding-top: 10px;}
+
+.anclas{color: rgba(80, 10, 80, 0.822);
+margin-right: 7px;}
+
+.sec{width: 800px; height: 150px; 
+    margin: auto;}
+
+footer{background-color: rgb(175, 173, 173);
+       text-align: center;
+    width: 100%; height: 20px;}
